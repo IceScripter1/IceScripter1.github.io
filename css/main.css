@@ -7,7 +7,7 @@ body {
     font-size: 14px;
     font-weight: 300;
     line-height: 25px;
-    color: #3b4045;
+    color: #FF0000;
     font:14px/22px 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       -webkit-font-smoothing: antialiased;
 }
@@ -78,11 +78,11 @@ a:active {
 
 .heading {
     text-align: center;
-    color: #777777;
+    color: #FF0000;
     padding-bottom: 70px;
 }
 .heading h2 {
-    color: #3c3c3c;
+    color: #FF0000;
     padding-bottom: 30px;
     text-transform: capitalize;
     font-weight: 300;
